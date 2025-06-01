@@ -1,4 +1,4 @@
-## Dictionary-App-Using-JS
+# Dictionary-App-Using-JS
 # Dictionary App
 Welcome to the Dictionary App! This application allows users to look up the definitions of words, synonyms, and more.
 
